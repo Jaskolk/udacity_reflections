@@ -17,3 +17,8 @@ and one logical change at a time
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 I think git branches can be very useful.
 They allow to try multiple ideas while preserving core code
+
+How do the diagrams help you visualize the branch structure?
+Diagrams are very helpful to visualize
+the branch structure which can otherwise be pretty confusing
+They help figure out which commits are reachable from which other commits/branches
