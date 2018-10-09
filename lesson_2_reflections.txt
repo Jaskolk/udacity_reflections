@@ -2,3 +2,8 @@ This is my second reflections file:
 
 Initializing a git repository is needed in order to tell git to start
 tracking files in your directory.  otherwise, it doesn't know to do so.
+
+The staging area is an interesting concept.  It is a virtual place that allows
+the user some control over what files go into which commit and when.
+
+Seems like a useful way to have a granular control of the commits.
