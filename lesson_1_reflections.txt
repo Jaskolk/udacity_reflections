@@ -1,0 +1,36 @@
+these are some reflections on the first version control lesson
+
+I used diff
+It was much less painful than manually looking for differences between  files
+It would be an absolute necessity for larger files
+
+Nevertheless, so far this is a boring topic
+I'm doing it because I think it will help my next nanodegree
+
+Having access to an entire history of versions of a file would
+be very helpful for debugging a program
+- lets you go back to a last known good state
+- or it lets you experiment with a new/wild/wierd option safely
+
+manually saving versions has advantages over autosaving in that it
+increases the chances of making the correct sized versions.
+auto saving has the possibility of saving either too often or too rarely
+
+the main drawback of manually saving is that you could forget to save when you
+should have
+
+git likely saves multiple files with each commit because it's specifically designed
+for programmers and programs often work with multiple linked files
+google docs/drop box don't do this because they usually handle documents which
+aren't likely to be interrelated in the same way
+
+git log shows a history of git commits
+once you use the log to show the history, you pick the commit you are interested
+in and compare to the prior one with git diff
+this lets to look at the differences between 2 files and compare them
+
+using git allows you to experiment with changes, knowing that you have the
+freedom to easily compare to and revert to prior working versions of code
+
+i guess i will use git to track changes in my future code but I'm not sure. so far it seems a little
+clunky.  But - that said, it integrates with atom so it should be pretty easy
