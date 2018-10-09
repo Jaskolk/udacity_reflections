@@ -7,3 +7,9 @@ The staging area is an interesting concept.  It is a virtual place that allows
 the user some control over what files go into which commit and when.
 
 Seems like a useful way to have a granular control of the commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+- you can do this by only adding relevant files to the staging area
+- can also check by using git diff and git diff --staged to confirm
+that the changes between working dir, staging area and and commits are as expected a
+and one logical change at a time
