@@ -22,3 +22,8 @@ How do the diagrams help you visualize the branch structure?
 Diagrams are very helpful to visualize
 the branch structure which can otherwise be pretty confusing
 They help figure out which commits are reachable from which other commits/branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging 2 git branches is that you combine 2 paths of code together
+it allows for more than one line of development or more than one developer to occur at the same time
+the tree helps make it clear what's happening when you branch and merge
