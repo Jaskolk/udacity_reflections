@@ -27,3 +27,8 @@ What is the result of merging two branches together? Why do we represent it in t
 The result of merging 2 git branches is that you combine 2 paths of code together
 it allows for more than one line of development or more than one developer to occur at the same time
 the tree helps make it clear what's happening when you branch and merge
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic is fast and potentially easy but leads to possible conflicts to be resolved
+which seems like a pain in the butt
+manually is just a pain in the butt but less likely to cause errors
