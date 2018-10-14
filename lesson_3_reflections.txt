@@ -1,2 +1,6 @@
 This is going to be a file for my lesson 3 reflections:
 
+When would you want to use a remote repository rather than keeping all your work local?
+1. when collaborating with people online
+2. when working from mulitple computers
+3. perhaps as a safety mechanism - ie. a cloud backup
