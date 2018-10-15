@@ -16,3 +16,7 @@ fork it coping a gitub repo to a new github repo in the cloud
 - this is nice cause it still refers to the orginal repo but doesn't change it
 against the owners will
 - branches a versions of a repo and exist both on github and locally
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- its a quick method of determining if the local is up to date
+also gives a referecne to work from if there are multiple conflicts
