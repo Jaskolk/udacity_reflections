@@ -20,3 +20,8 @@ against the owners will
 What is the benefit of having a copy of the last known state of the remote stored locally?
 - its a quick method of determining if the local is up to date
 also gives a referecne to work from if there are multiple conflicts
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaborating without git hub would involve using a shared dir in a cloud, or sharing files by email or drop box
+It would be easier because you wouldn't have to learn a whole new software package/language
+but it would be harder because git and github seem to be very powerful tools for tracking and merging changes
